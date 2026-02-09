@@ -1,14 +1,14 @@
 name: Generate Snake
 
 on:
-  # Uruchom automatycznie co 24 godziny o północy
+  # Uruchamiaj automatycznie co 24h o północy
   schedule:
     - cron: "0 0 * * *" 
   
-  # Pozwól na ręczne uruchomienie w każdej chwili
+  # Pozwala na ręczne uruchomienie z zakładki Actions
   workflow_dispatch:
   
-  # Uruchom przy każdym pushu do master/main
+  # Uruchamiaj przy każdym pushu na główną gałąź
   push:
     branches:
     - master
@@ -22,7 +22,7 @@ jobs:
     timeout-minutes: 5
     
     steps:
-      # Generuje węża z twoich commitów
+      # Generuje węża (wersja svg-only zalecana przez autora do README)
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
@@ -33,7 +33,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
-      # Wysyła wygenerowane pliki na oddzielną gałąź "output"
+      # Wysyła wygenerowane pliki na gałąź "output"
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/gh-action-github-pages@v3.1.0
         with:
