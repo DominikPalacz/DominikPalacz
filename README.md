@@ -4,7 +4,8 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DominikPalacz/DominikPalacz/output/github-contribution-grid-snake.svg">
 </picture>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-green.svg)
+
 <!--
 **DominikPalacz/DominikPalacz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
