@@ -3,7 +3,9 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DominikPalacz/DominikPalacz/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DominikPalacz/DominikPalacz/output/github-contribution-grid-snake.svg">
 </picture>
-
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Cześć!+Jestem+Dominik;Programuję+w+TypeScript;Uczę+się+nowych+rzeczy;Witaj+na+moim+profilu!&center=true&vCenter=true" alt="Typing SVG" />
+</a>
 ![](./profile-3d-contrib/profile-night-green.svg)
 ![Metrics](github-metrics.svg)
 <!--
