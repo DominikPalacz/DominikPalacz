@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Cześć!+Jestem+Dominik;Programuję+w+TypeScript;Uczę+się+nowych+rzeczy;Witaj+na+moim+profilu!&center=true&vCenter=true)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Cześć!+Jestem+Dominik+👋;Staff+Frontend+Engineer;Buduję+skalowalne+systemy+React;Łączę+biznes+z+technologią&center=true&vCenter=true)](https://git.io/typing-svg)
 
 <br/>
 
